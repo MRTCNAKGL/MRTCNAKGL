@@ -1,4 +1,4 @@
- [![MasterHead]([http:https://www.amazon.in/SQL-Java-Php-Html-Net/dp/1079917136](https://www.dreamstime.com/set-programming-language-logo-vector-icons-css-html-javascript-java-php-c-c-c-swift-python-isolated-editorial-set-image242765709))
+ [![MasterHead](https://www.dreamstime.com/set-programming-language-logo-vector-icons-css-html-javascript-java-php-c-c-c-swift-python-isolated-editorial-set-image242765709)
 
 
 <h1 align="center">Hi 👋, I'm Mert Can Akgül</h1>
